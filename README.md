@@ -1,2 +1,2 @@
-# paradisetravel.github.io
-Travel Agency
+# Paradise-Travel
+ Travel Website
